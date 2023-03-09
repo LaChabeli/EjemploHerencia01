@@ -13,7 +13,7 @@
             pajaro= new Aves();
 
             animal1.Nombre = "";
-            mamifero1.Nombre = "";
+            mamifero1.Nombre = "Jirafa";
             pajaro.Nombre = "";
 
 
