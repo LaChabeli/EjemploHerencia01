@@ -12,9 +12,9 @@
             mamifero1= new Mamifero();
             pajaro= new Aves();
 
-            animal1.Nombre = "";
+            animal1.Nombre = "Caballo";
             mamifero1.Nombre = "Jirafa";
-            pajaro.Nombre = "";
+            pajaro.Nombre = "Canario";
 
 
 
